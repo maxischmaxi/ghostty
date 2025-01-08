@@ -1,16 +1,16 @@
 # Font
-freetype-load-flags=no-hinting
-freetype-load-flags=no-force-autohint
-font-feature=calt
-font-feature=dlig
-font-feature=ss05
-font-thicken=false
-font-size=14
-font-family=Symbols Nerd Font Mono
-window-inherit-font-size=true
+freetype-load-flags            = no-hinting
+freetype-load-flags            = no-force-autohint
+font-feature                   = calt
+font-feature                   = dlig
+font-feature                   = ss05
+font-thicken                   = false
+font-size                      = 13
+font-family                    = Symbols Nerd Font Mono
+window-inherit-font-size       = true
 
 # Window
-window-decoration=false
+window-decoration              = false
 copy-on-select                 = true
 macos-auto-secure-input        = true
 macos-secure-input-indication  = true
@@ -20,7 +20,7 @@ shell-integration-features     = no-cursor,sudo,title
 auto-update=download
 
 # Look and feel
-adjust-cursor-thickness=3
+adjust-cursor-thickness        = 1
 adjust-underline-position      = 3
 bold-is-bright                 = true
 link-url                       = true
@@ -31,5 +31,6 @@ theme                          = dark:tokyonight_night,light:tokyonight_day
 window-vsync                   = true
 
 # Keybind
-keybind = super+t=ignore
-keybind = super+w=ignore
+keybind                        = super+t=ignore
+keybind                        = super+w=ignore
+keybind                        = ctrl+c=text:\x03
