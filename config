@@ -27,7 +27,7 @@ link-url                       = true
 macos-titlebar-proxy-icon      = hidden
 macos-titlebar-style           = tabs
 mouse-hide-while-typing        = true
-theme                          = dark:tokyonight_night,light:tokyonight_day
+theme                          = catppuccin-mocha
 window-vsync                   = true
 
 # Keybind
