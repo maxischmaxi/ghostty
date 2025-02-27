@@ -5,11 +5,12 @@ font-feature                   = calt
 font-feature                   = dlig
 font-feature                   = ss05
 font-thicken                   = false
-font-size                      = 13
+font-size                      = 15
 font-family                    = Symbols Nerd Font Mono
 window-inherit-font-size       = true
 
 # Window
+window-padding-balance         = false
 window-decoration              = false
 copy-on-select                 = true
 macos-auto-secure-input        = true
@@ -27,7 +28,7 @@ link-url                       = true
 macos-titlebar-proxy-icon      = hidden
 macos-titlebar-style           = tabs
 mouse-hide-while-typing        = true
-theme                          = catppuccin-mocha
+theme                          = 0x96f
 window-vsync                   = true
 
 # Keybind
