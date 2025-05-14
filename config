@@ -34,4 +34,5 @@ window-vsync                   = true
 # Keybind
 keybind                        = super+t=ignore
 keybind                        = super+w=ignore
+keybind                        = super+d=ignore
 keybind                        = ctrl+c=text:\x03
