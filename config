@@ -12,6 +12,10 @@ window-inherit-font-size       = true
 # Window
 window-padding-balance         = false
 window-decoration              = false
+# window-padding-x               = 10
+# window-padding-y               = 10
+window-vsync                   = false
+window-theme                   = system
 copy-on-select                 = true
 macos-auto-secure-input        = true
 macos-secure-input-indication  = true
