@@ -4,7 +4,7 @@ freetype-load-flags            = no-force-autohint
 font-feature                   = calt
 font-feature                   = dlig
 font-feature                   = ss05
-font-thicken                   = false
+font-thicken                   = true
 font-size                      = 15
 font-family                    = Symbols Nerd Font Mono
 window-inherit-font-size       = true
@@ -12,6 +12,8 @@ window-inherit-font-size       = true
 # Window
 window-padding-balance         = false
 window-decoration              = false
+background-blur                = true
+background-opacity             = 0.7
 # window-padding-x               = 10
 # window-padding-y               = 10
 window-vsync                   = false
